@@ -715,6 +715,9 @@ pyheos==0.7.2
 # homeassistant.components.homematic
 pyhomematic==0.1.70
 
+# homeassistant.components.ialarm
+pyialarm==1.3
+
 # homeassistant.components.icloud
 pyicloud==0.9.7
 
